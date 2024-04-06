@@ -1,0 +1,34 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.register-card-header,
+.submitButtton
+{
+    background: #873fe3;
+}
+
+.submitButtton:hover
+{
+    background: #873fe3;
+}
+
+label
+{
+    font-size: 15px;
+}
+
+.form-control
+{
+    border: 1px solid #873fe3;
+}
+
+.form-control:focus
+{
+    box-shadow: 5px 5px 5px #863fe333;
+    border: 1px solid #440892;
+}
